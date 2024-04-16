@@ -7,7 +7,20 @@ To broaden my horizons, I have been familiarizing myself with architectur of web
 
 In the near future, projects featuring different models including LLMs, CVMs, and large data prediction algorithms will be added with commentaries and design files to help understand the general thoughts, motivations, and design principles while I further explore this world of Artificial Intelligence.
 
+My current skillset and toolset includes:
+Languages:
+• Python
+• Java
+• HTML
+• SQL
 
+Tools:
+• Numpy
+• Pandas
+• MatPlotLib
+• Pytorch
+• OpenCV
+others
 
 
 <!---
